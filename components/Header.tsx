@@ -73,7 +73,6 @@ export default function Header() {
                     key={l.href} 
                     href={l.href} 
                     onClick={() => setOpen(false)}
-                    className="text-base sm:text-lg py-2"
                   >
                     {l.label}
                   </NavLink>
