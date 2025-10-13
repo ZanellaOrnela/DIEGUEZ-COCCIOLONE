@@ -7,7 +7,7 @@ const areas = [
   },
   {
     title: 'Derecho Civil',
-    desc: 'DAÑOS Y PERJUICIOS. RESPONSABILIDAD PROFESIONAL. CONTRATOS. LOCACIÓN. MANDATO. MUTUOS CON GARANTÍAS. TESTAMENTOS. USUCAPIÓN. PRESCRIPCIÓN ADQUISITIVAS. ACCIÓN REIVINDICACIÓN.'
+    desc: 'Daños y perjuicios. Responsabilidad profesional. Contratos. Locación. Mandato. Mutuos con garantías. Testamentos. Usucapión. Prescripción adquisitivas. Acción reivindicación.'
   },
   {
     title: 'Derecho Vinculares',
@@ -15,15 +15,15 @@ const areas = [
   },
   {
     title: 'Derecho Penal',
-    desc: 'DELITOS COMUNES Y ECONÓMICOS – DELITOS TRIBUTARIOS. ESTAFAS VIRTUALES. INSTRUCCIÓN. EXCARCELACIONES. DEBATE ORAL. EJECUCIÓN DE PENAS.'
+    desc: 'Delitos comunes y económicos – Delitos tributarios. Estafas virtuales. Instrucción. Excarcelaciones. Debate oral. Ejecución de penas.'
   },
   {
     title: 'Defensa de los Derechos del Consumidor',
-    desc: 'ASESORAMIENTO Y SEGUIMIENTO DE DENUNCIAS DE PARTICULARES. DAÑOS Y PERJUICIOS DERIVADOS DE LA RELACIÓN DE CONSUMO. RECLAMOS DE PLAN DE AHORROS PARA FINES DETERMINADOS.'
+    desc: 'Asesoramiento y seguimiento de denuncias de particulares. Daños y perjuicios derivados de la relación de consumo. Reclamos de plan de ahorros para fines determinados.'
   },
   {
     title: 'Accidentología',
-    desc: 'RECLAMOS POR ACCIDENTES. ACCIDENTES DE RIESGOS DEL TRABAJO. RECURSOS MINISTERIO DE TRABAJO. S.R.T. ACCIDENTE DE TRÁNSITO. MEDIACIÓN. RECLAMOS JUDICIALES. ACCIDENTES DOMÉSTICOS. COBERTURA DE SEGUROS.'
+    desc: 'Reclamos por accidentes. Accidentes de riesgos del trabajo. Recursos Ministerio de Trabajo. S.R.T. Accidente de tránsito. Mediación. Reclamos judiciales. Accidentes domésticos. Cobertura de seguros.'
   }
 ];
 

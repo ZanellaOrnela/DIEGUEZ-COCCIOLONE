@@ -21,13 +21,13 @@ export default function Advantage() {
             <div className="bg-white/90 backdrop-blur-sm rounded-xl border border-black/20 p-4 sm:p-6 shadow-lg transition-smooth hover:scale-105 animate-slide-in-bottom animate-delay-200">
               <h3 className="title-raleway text-primary text-sm sm:text-base lg:text-lg">Capacitación Continua</h3>
               <p className="text-primary/80 mt-2 sm:mt-3 text-xs sm:text-sm lg:text-base">
-                LA LEY COMO EN CUALQUIER DINÁMICA SOCIAL NO ES ESTÁTICA, ESTE ESTUDIO SE ENCUENTRA EN CONSTANTE ACTUALIZACIÓN Y CAPACITACIÓN PARA BRINDAR EL ASESORAMIENTO EFECTIVO, EFICAZ Y ACTUALIZADO. ACOMPAÑADA POR LA I.A. Y ACTUALIZADA CON HERRAMIENTAS DE CONSULTA AL SERVICIO DEL CLIENTE.
+                La ley como en cualquier dinámica social no es estática, este estudio se encuentra en constante actualización y capacitación para brindar el asesoramiento efectivo, eficaz y actualizado. Acompañada por la I.A. y actualizada con herramientas de consulta al servicio del cliente.
               </p>
             </div>
             <div className="bg-white/90 backdrop-blur-sm rounded-xl border border-black/20 p-4 sm:p-6 shadow-lg transition-smooth hover:scale-105 animate-slide-in-bottom animate-delay-300 sm:col-span-2 lg:col-span-1">
               <h3 className="title-raleway text-primary text-sm sm:text-base lg:text-lg">Marcamos la Diferencia</h3>
               <p className="text-primary/80 mt-2 sm:mt-3 text-xs sm:text-sm lg:text-base">
-                EL CLIENTE SE SIENTE PARTE DE LA ESTRATEGIA y SIENTE EL COMPROMISO DE PROFESIONALES. LA SOLIDEZ Y CALIDEZ DE LAS ABOGADAS PARTE, INVITA A CONFIAR CUALQUIER CUESTIÓN QUE SE PLANTEE CON FORMALIDAD Y SAPIENCIA.
+                El cliente se siente parte de la estrategia y siente el compromiso de profesionales. La solidez y calidez de las abogadas parte, invita a confiar cualquier cuestión que se plantee con formalidad y sapiencia.
               </p>
             </div>
           </div>

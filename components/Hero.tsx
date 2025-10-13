@@ -13,10 +13,10 @@ export default function Hero() {
           {/* Texto - Izquierda en desktop, arriba en móvil */}
           <div className="text-center lg:text-left animate-slide-in-left flex flex-col justify-center">
             <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-semibold tracking-tight leading-tight animate-slide-in-bottom animate-delay-200 mt-8 sm:mt-12 lg:mt-0">
-              ASESORAMIENTO LEGAL PREVENTIVO
+              Asesoramiento Legal Preventivo
             </h1>
             <p className="mt-2 sm:mt-3 text-lg sm:text-xl lg:text-2xl text-muted animate-slide-in-bottom animate-delay-250 font-medium">
-              Anticiparte a los conflictos es parte de la planificación de la VIDA.
+              Anticiparte a los conflictos es parte de la planificación de la vida.
             </p>
             <p className="mt-4 sm:mt-6 text-base sm:text-lg text-muted animate-slide-in-bottom animate-delay-300 max-w-2xl mx-auto lg:mx-0">
               Los conflictos siempre inciden en las emociones. 

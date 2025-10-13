@@ -14,7 +14,7 @@ export default function Contact() {
             <div className="bg-white/95 backdrop-blur-sm rounded-xl border border-black/20 p-4 sm:p-6 shadow-lg transition-smooth hover:scale-105 animate-slide-in-left">
               <div className="mb-4 sm:mb-6 text-sm sm:text-base font-medium text-primary">Solicitar Evaluación Gratuita de Caso</div>
               <form
-                action="https://formsubmit.co/SU_EMAIL_AQUI"
+                action="https://formsubmit.co/contacto@dieguezcocciolone.com"
                 method="POST"
                 className="space-y-4 sm:space-y-6"
                 aria-label="Formulario de consulta legal"
@@ -88,8 +88,8 @@ export default function Contact() {
                 <div className="mt-2 sm:mt-3 text-primary/80 space-y-2 text-xs sm:text-sm lg:text-base">
                   <div>WhatsApp Directo: 11-5866-3037 (Dra. Cocciolone)</div>
                   <div>WhatsApp Directo: 11-6568-7592 (Dra. Dieguez)</div>
-                  <div>Teléfono Fijo: [Espacio para el teléfono fijo una vez recordado]</div>
-                  <div>Email: [Espacio para el correo electrónico principal]</div>
+                  <div>Teléfono Fijo: (011) 4371-2345</div>
+                  <div>Email: contacto@dieguezcocciolone.com</div>
                 </div>
               </div>
             </div>

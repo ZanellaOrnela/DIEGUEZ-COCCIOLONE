@@ -6,18 +6,33 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const testimonials = [
   {
     quote:
-      'Te conocí en el peor momento de mi vida, entre llorando por mi separación. Y vos me recibiste con un ABRAZO! De ahí tu acompañamiento procesal fue fácil. Tardamos 5 años en resolver la VIOLENCIA, los ALIMENTOS, la partición de los bienes. Estuviste siempre atenta a mis tiempos y las idas y venidas propias de los conflictos. Fuiste una persona que nunca olvidaré.',
+      'Te conocí en el peor momento de mi vida, entre llorando por mi separación. Y vos me recibiste con un ABRAZO! De ahí tu acompañamiento procesal fue fácil. Tardamos 5 años en resolver la VIOLENCIA, los ALIMENTOS, la partición de los bienes. Estuviste siempre atenta a mis tiempos y las idas y venidas propias de los conflictos que como me dijiste el primer día: se que los problemas de familia también son conflictos emocionales. Fuiste una persona que nunca olvidaré.',
     author: 'Pilar C. (Pcia de Bs Aires) 2022'
   },
   {
     quote:
-      'Tuve un accidente en BOMBEROS DE POMPEYA! Y en la Superintendencia de Riesgos del Trabajo no me reconocieron nada. Vos me dijiste que seguiríamos hasta lograrlo. Así que seguí con juicio y lograste una sentencia que me permitió comprar un terreno en Merlo! Gracias a tu predisposición y seguimiento constante.',
-    author: 'Emanuel F. CABA 2023'
+      'Al lado de mi casa construyeron un edificio, te consulté y logré en dos meses que me reparen las paredes dañadas. Gracias.',
+    author: 'G.C. 2024 CABA'
   },
   {
     quote:
       'Te pedí la sucesión de mis viejos y en 5 meses teníamos DECLARATORIA DE HEREDEROS! Genia. Estoy muy satisfecha con tu servicio.',
     author: 'Mirta (2021 CABA)'
+  },
+  {
+    quote:
+      'Tuve un accidente en BOMBEROS DE POMPEYA! Y en la Super Riesgo de Trabajo no me reconocieron nada. Vos me dijiste que seguiríamos hasta lograrlo. Así que seguí con juicio y lograste una sentencia que me permitió comprar un terreno en Merlo! Gracias a tu predisposición y seguimiento constante.',
+    author: 'Emanuel F. CABA 2023'
+  },
+  {
+    quote:
+      'Tienes en nuestra empresa toda nuestra confianza. Hace 6 años que tenemos un abono y siempre nos cubres en todo. Vamos por más. Éxito.',
+    author: 'Empresa Textil CABA'
+  },
+  {
+    quote:
+      'María Dieguez me sacó de la cárcel, estoy agradecido la excarcelación llegó en 72 hs. No diré quien soy.',
+    author: 'JM'
   },
   {
     quote:
