@@ -10,7 +10,7 @@ const areas = [
     desc: 'Daños y perjuicios. Responsabilidad profesional. Contratos. Locación. Mandato. Mutuos con garantías. Testamentos. Usucapión. Prescripción adquisitivas. Acción reivindicación.'
   },
   {
-    title: 'Derecho Vinculares',
+    title: 'Derecho Vincular',
     desc: 'Unión Convivencial. Divorcio. Regímenes Patrimoniales. Convenios Regulador de las Consecuencias Jurídicas de las Des-uniones. Matrimonio y divorcio Igualitarios. Convenios Prenupciales. Filiación. Adopción. Curatela.'
   },
   {
